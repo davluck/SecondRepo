@@ -1,4 +1,11 @@
 # SecondRepo
 This is my second repo
 
-My CV
+
+
+
+LUCID BLOG
+
+
+
+https://lucid.blog/luckydavdennis/post/css-down-more-to-go-2e3
