@@ -4,6 +4,6 @@ This is my second repo
 
 
 
-LUCID BLOG
+CV
 
 
