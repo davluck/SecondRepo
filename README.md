@@ -4,6 +4,8 @@ This is my second repo
 
 
 
-CV
+LUCID BLOG
+
+https://lucid.blog/luckydavdennis/post/css-down-more-to-go-2e3
 
 
